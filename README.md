@@ -7,7 +7,7 @@
 💻 Sou uma desenvolvedora Back-End, tenho experiência com atendimento ao público.
 
 🎓 Eu estudo Desenvolvimento de Software com Foco em Back-End na Cubos Academy(https://cubos.academy/). Começei meus estudos autodidata
-em 2021, me identifiquei mais com o Back-End e decidi escolher essa área para me especializar. 
+em 2021, me identifiquei com o Back-End e decidi escolher essa área para me especializar. 
 
 
 ### Tecnologias e Ferramentas🔧
