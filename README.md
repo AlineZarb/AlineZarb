@@ -1,23 +1,15 @@
 
 
-# Oi, me chamo [Aline Braz] 👋
+# Oi, me chamo Aline Braz 👋
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor [Back-End]
+💻 Eu sou uma desenvolvedora Back-End
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo [[Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | Outro ] @ [ [Cubos Academy](https://cubos.academy/).
-
-👩‍💻 Atualmente eu trabalho como [Cargo] @ [Empresa atual]
-
-🔎 Também sou curioso sobre [Temas que você gosta]
-
-✒️ Eu gosto de no meu tempo livre [Coisas que você gosta de fazer no tempo livre];
-
-📚 Lendo: [Livro que está lendo atualmente]
+🎓 Eu estudo Desenvolvimento de Software com Foco em Back-End na Cubos Academy(https://cubos.academy/).
 
 ### Eu já trabalhei com... 🔧
 
