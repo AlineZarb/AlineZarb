@@ -10,7 +10,7 @@
 em 2021, me identifiquei mais com o Back-End e decidi escolher essa área para me especializar. 
 
 
-## Tecnologias e Ferramentas🔧
+### Tecnologias e Ferramentas🔧
 
 <!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
 
