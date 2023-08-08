@@ -7,11 +7,9 @@
 💻 Sou uma desenvolvedora Back-End, tenho experiência com atendimento ao público.
 
 🎓 Eu estudo Desenvolvimento de Software com Foco em Back-End na Cubos Academy(https://cubos.academy/). Começei meus estudos autodidata
-em 2021, me identifiquei mais com o Back-End e decidi escolher essa área para me especialiazar. 
+em 2021, me identifiquei mais com o Back-End e decidi escolher essa área para me especializar. 
 
-### Eu já trabalhei com... 🔧
-
-**Tecnologias e Ferramentas**
+**Tecnologias e Ferramentas**🔧
 
 <!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
 
@@ -34,7 +32,7 @@ em 2021, me identifiquei mais com o Back-End e decidi escolher essa área para m
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Dart and Flutter](https://img.shields.io/badge/Dart%20%26%20Flutter-blue?style=for-the-badge&logo=dart&logoColor=white)
 
 
 ### GitHub Stats ⚡
