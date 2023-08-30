@@ -29,7 +29,7 @@ em 2021, me identifiquei com o Back-End e decidi escolher essa área para me esp
 <!-- (Aqui você pode adicionar tecnologias que está estudando, inclusive para aumentar essa lista você listamos algumas das tecnologias ensinadas na nossa [Assinatura On Demand](https://cubos.academy/cubosondemand)) -->
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart and Flutter](https://img.shields.io/badge/Dart%20%26%20Flutter-blue?style=for-the-badge&logo=dart&logoColor=white)
+
 
 
 ### GitHub Stats ⚡
